@@ -1,0 +1,10 @@
+name: ${PROJECT}
+description: ${DESCRIPTION}
+runtime: nodejs
+template:
+  description: A pet name template by Piers
+  important: true
+  config:
+    aws:region:
+      description: The AWS region to deploy into
+      default: eu-west-1

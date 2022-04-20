@@ -1,0 +1,10 @@
+{
+    "name": "pk-template",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "^3.0.0",
+        "@pulumi/random": "^4.4.2"
+    }
+}
